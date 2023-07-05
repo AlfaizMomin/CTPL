@@ -106,6 +106,7 @@
         try {
             f2.get();
         }
+                
         catch (std::exception & e) {
             std::cout << "caught exception\n";
         }
