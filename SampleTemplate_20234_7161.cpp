@@ -2,8 +2,7 @@
         #include <iostream>
 #include <string>
 
-
-
+if(){}
     void first(int id) {
         std::cout << "hello from " << id << ", function\n";
     }
