@@ -2,8 +2,6 @@
         #include <iostream>
 #include <string>
 
-
-
     void first(int id) {
         std::cout << "hello from " << id << ", function\n";
     }
